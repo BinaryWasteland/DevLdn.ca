@@ -12,3 +12,7 @@ Those wanting to contribute? <br/>
 8. when ready goto the browser and make a pull request from your fork <br/>
 9. ???? <br/>
 10. PROFIT <br/>
+
+Note:
+
+Make sure you ```npm install``` in the directory you cloned the site to so you can get all the required files.
