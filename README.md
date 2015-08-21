@@ -1,7 +1,7 @@
 # DevLdn.ca
 The DevLdn.ca website
 
-Those wanting to contribute?
+Those wanting to contribute? <br/>
 1. Fork the repo at https://github.com/DevLdn/DevLdn.ca.git <br/>
 2. Clone onto your computer <br/>
 3. Add remote ```git remote add upstream https://github.com/DevLdn/DevLdn.ca.git``` <br/>
