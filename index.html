@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="devldn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <title ng-bind="title"></title>
+
+  <link rel="stylesheet" type="text/css" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <script src="node_modules/jquery/dist/jquery.min.js"></script>
+  <script src="node_modules/jquery-ui/jquery-ui.min.js"></script>
+  <script src="node_modules/angular/angular.min.js"></script>
+  <script src="node_modules/angular-route/angular-route.min.js"></script>
+
+  <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="node_modules/angular-ui-bootstrap/ui-bootstrap-tpls.min.js"></script>
+
+  <script src="app/app.module.js"></script>
+  <!-- <script src="app/components/login/loginController.js"></script> -->
+  <script src="app/app.routes.js"></script>
+</head>
+<body>
+  <div ng-include src="'app/shared/header/header.html'"></div>
+
+  <div ng-view></div>
+</body>
+</html>

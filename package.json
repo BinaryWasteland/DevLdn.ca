@@ -1,0 +1,28 @@
+{
+  "name": "devldn.ca",
+  "version": "0.0.5",
+  "description": "The main website for devldn.ca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinaryWasteland/DevLdn.ca.git"
+  },
+  "author": "Greg R. Jacobs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BinaryWasteland/DevLdn.ca/issues"
+  },
+  "homepage": "https://github.com/BinaryWasteland/DevLdn.ca#readme",
+  "dependencies": {
+    "angular": "^1.4.4",
+    "angular-bootstrap": "^0.12.2",
+    "angular-route": "^1.4.4",
+    "angular-ui-bootstrap": "^0.13.3",
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4",
+    "jquery-ui": "^1.10.5"
+  }
+}
